@@ -1,0 +1,267 @@
+{
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "gallery": "Gallery",
+    "reservation": "Reservation",
+    "contact": "Contact",
+    "open": "Open menu",
+    "close": "Close menu"
+  },
+  "menu": {
+    "eyebrow": "Menu",
+    "title": "Full menu",
+    "description": "Prices are in AZN. Check details and allergens with the waiter.",
+    "searchPlaceholder": "e.g. tasting menu, kebab, dessert...",
+    "searchAria": "Search menu",
+    "all": "All",
+    "itemWord": "dishes",
+    "note": "* A 10% service charge may be added. Please inform us about allergies.",
+    "cats": {
+      "soyuq-qelyanaltilar": "Cold starters",
+      "sorbalar": "Soups",
+      "isti-qelyanaltilar": "Hot starters",
+      "isti-yemekler": "Hot dishes",
+      "tava": "Skillet dishes",
+      "xemir": "Dough dishes",
+      "plov": "Pilafs",
+      "kabab": "Kebabs",
+      "desert": "Desserts"
+    },
+    "items": {
+      "terevaz-buketi": { "name": "Vegetable platter" },
+      "gunun-sorbasi": { "name": "Soup of the day" },
+      "etli-qutab": { "name": "Meat qutab" },
+      "kartof-dolmasi-pomidor-azmasi-ile": { "name": "Potato dolma with tomato relish" }
+    },
+    "itemsByIndex": {
+      "soyuq-qelyanaltilar": [
+        { "name": "Vegetable Bouquet" },
+        { "name": "Cheese Assortment" },
+        { "name": "Nakhchivan Cheese" },
+        { "name": "Mixed Olives" },
+        { "name": "Pickled Assortment" },
+        { "name": "Eggplant Lavangi" },
+        { "name": "Tomato Appetizer" },
+        { "name": "Spicy Vegetable Appetizer" },
+        { "name": "Smoked Fish Assortment" },
+        { "name": "Bean Fisindjan" },
+        { "name": "Cucumber in Vinegar" },
+        { "name": "Sorrel with Onion and Vinegar" },
+        { "name": "Tongue Salad" },
+        { "name": "Shepherd’s Salad with Chanakh Cheese" },
+        { "name": "Cherry and Tomato Salad" },
+        { "name": "Crispy Eggplant Salad" },
+        { "name": "Riviera Salad" }
+      ],
+      "sorbalar": [
+        { "name": "Soup of the Day" },
+        { "name": "Dushbara" },
+        { "name": "Soup with Dried Yogurt and Noodles" },
+        { "name": "Dovga with Meat and Chickpeas" }
+      ],
+      "isti-qelyanaltilar": [
+        { "name": "Qutab with Meat" },
+        { "name": "Qutab with Herbs" },
+        { "name": "Qutab with Pumpkin" },
+        { "name": "Herb Kuku (Azerbaijani herb omelet)" },
+        { "name": "Walnut Kuku" },
+        { "name": "Grilled Flatbread with Cheese" }
+      ],
+      "isti-yemekler": [
+        { "name": "Stuffed Potatoes with Tomato Sauce" },
+        { "name": "Smoked Kufta-Bozbash" },
+        { "name": "Veal with Barberries and Onion" },
+        { "name": "Sheki Piti" },
+        { "name": "Govurma" },
+        { "name": "Eggplant Dolma" },
+        { "name": "Stuffed Onions with Chickpea Purée" }
+      ],
+      "tava": [
+        { "name": "Sadj with Lamb (for 4 persons)" },
+        { "name": "Sadj with Veal (for 4 persons)" },
+        { "name": "Sadj with Chicken (for 4 persons)" },
+        { "name": "Moody Chicken (for 2 persons)" },
+        { "name": "Fish Buglama" },
+        { "name": "Jiz-Biz" },
+        { "name": "Lamb Ribs with Pomegranate and Chestnuts" },
+        { "name": "Shepherd’s Fry with Lamb Shank" },
+        { "name": "Salmon with Spinach in Cream Sauce" }
+      ],
+      "xemir": [
+        { "name": "Khengel with Meat" },
+        { "name": "Khengel with Chicken" },
+        { "name": "Gurza (boiled / fried)" },
+        { "name": "Fasali" }
+      ],
+      "plov": [
+        { "name": "Shah Pilaf (pre-order)" },
+        { "name": "Dill and Green Bean Pilaf with Lamb Leg" },
+        { "name": "Cherry Pilaf with Lamb Leg" },
+        { "name": "Shusha Pilaf" }
+      ],
+      "kabab": [
+        { "name": "Lyulya Kebab" },
+        { "name": "Lamb Kebab" },
+        { "name": "Lamb Entrecote" },
+        { "name": "Veal Basturma" },
+        { "name": "Lamb Basturma" },
+        { "name": "Chicken Kebab" },
+        { "name": "Sturgeon Kebab" },
+        { "name": "Grilled Baby Chicken" },
+        { "name": "Khan Kebab" },
+        { "name": "Koroghlu Kebab" },
+        { "name": "Vegetable Kebab" },
+        { "name": "Kullama Potatoes" }
+      ],
+      "desert": [
+        { "name": "Azerbaijani National Pastry" },
+        { "name": "San Sebastian Cheesecake" },
+        { "name": "Napoleon Cake" },
+        { "name": "Govud" },
+        { "name": "Absheron Cake" },
+        { "name": "Blue Berry Firni (milk pudding)" },
+        { "name": "Honey Cake" },
+        { "name": "Ice Cream" },
+        { "name": "Fairy Tale Cake" },
+        { "name": "Mixed Fruits" }
+      ]
+    }
+  },
+  "hero": {
+    "eyebrow": "Riviera Baku • Restaurant • Lounge",
+    "title": "Elegance in every bite,\nRiviera luxury every night.",
+    "desc": "Fine dining crafted on the Caspian shoreline. Signature cuisine, refined interiors, and attentive service turn every evening into a memory.",
+    "ctaReserve": "Reserve a table",
+    "ctaMenu": "Watch our video",
+    "addrLine1": "Qurban Abbasov 1, Baku, Azerbaijan 1003",
+    "addrLine2": "On the Caspian shoreline, near the seaside promenade",
+    "hoursPrefix": "Daily:",
+    "hoursValue": "10:00 – 02:00",
+    "rightEyebrow": "Concepts",
+    "rightTitle": "Riviera Restaurant",
+    "rightDesc": "Author’s cuisine, curated wine list and sea views.",
+    "rightToday": "Tables for today",
+    "rightLimited": "Book early",
+    "rightNote": "Custom menus and service for groups and events."
+  },
+  "footer": {
+    "tagline": "Riviera Baku – Restaurant • Lounge • Park – fine dining and leisure crafted by the Caspian Sea.",
+    "address": "Qurban Abbasov 1, Baku, Azerbaijan 1003",
+    "hours": "Daily 10:00 – 02:00",
+    "call": "Call",
+    "navigation": "Navigation",
+    "contactAndReservation": "Contact & Reservation",
+    "copyright": "© {year} Riviera Baku. All rights reserved.",
+    "createdBy": "Created by"
+  },
+  "res": {
+    "eyebrow": "Reservation",
+    "title": "Choose your table online",
+    "desc": "Fill the short form and our team will confirm your reservation. For urgent bookings, call or message via WhatsApp.",
+    "call": "Call",
+    "whNote": "After submitting, you will be redirected to WhatsApp to send the request.",
+    "labelName": "Full name",
+    "labelPhone": "Phone",
+    "labelDate": "Date",
+    "labelTime": "Time",
+    "labelPeople": "Guests",
+    "labelNote": "Note (optional)",
+    "submit": "Send reservation via WhatsApp",
+    "waPrefix": "Riviera Baku reservation request:",
+    "waName": "Name",
+    "waPhone": "Phone",
+    "waDate": "Date",
+    "waTime": "Time",
+    "waPeople": "Guests",
+    "waNote": "Note"
+  },
+  "gallery": {
+    "eyebrow": "Gallery",
+    "title": "Ambience",
+    "desc": "Scenes from Riviera Restaurant, Lounge and Park.",
+    "img1Title": "Riviera Restaurant",
+    "img1Sub": "Fine dining and signature dishes",
+    "img2Title": "Riviera Lounge",
+    "img2Sub": "Live music and signature cocktails",
+    "img3Title": "Riviera Park",
+    "img3Sub": "Open-air, Caspian coastline mood"
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "The Riviera story",
+    "p1": "Riviera Baku sits on the Caspian shore, blending the city’s rhythm with the calm of the sea. With Restaurant, Lounge and Park concepts, it is ideal for both romantic dinners and gatherings with friends.",
+    "p2": "Author’s cuisine, a curated wine menu, and live music in the lounge create experiences for every taste. The open-air park zone is designed for unwinding to the sound of the sea.",
+    "featKitchen": "Author’s cuisine",
+    "featKitchenText": "Selected produce, delicate presentation and a menu tuned to the sea view.",
+    "featPhilosophy": "Service philosophy",
+    "featPhilosophyText": "Personal approach for every guest, attentive service and comfort.",
+    "featAtmos": "Atmosphere",
+    "featAtmosText": "A unified Riviera mood across Restaurant, Lounge and Park.",
+    "cardEyebrow": "Riviera concept",
+    "cardTitle": "Restaurant • Lounge • Park",
+    "cardText": "Riviera Baku unites Restaurant, Lounge and Park concepts. Contact us for private events and tailored group menus.",
+    "hoursLabel": "Hours",
+    "hoursValue": "Daily 10:00 – 02:00",
+    "addrLabel": "Address",
+    "addrValue": "Qurban Abbasov 1, Baku — Caspian shore",
+    "contactLabel": "Contact"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "How to reach us?",
+    "desc": "Reach us by phone, WhatsApp or Instagram. Use the map below for directions.",
+    "addr": "Qurban Abbasov 1, Baku, Azerbaijan 1003 — on the Caspian shore, near the seaside promenade.",
+    "phone": "Phone",
+    "hoursLabel": "Opening hours",
+    "hoursValue": "Daily 10:00 – 02:00"
+  },
+  "homeMenu": {
+    "eyebrow": "Menu",
+    "title": "Signature kitchen and curated tastes",
+    "desc": "A few highlights from the menu. Visit the Menu page to explore everything."
+  },
+  "homeAtmos": {
+    "eyebrow": "Atmosphere",
+    "title": "Riviera mood",
+    "desc": "Short clips from Restaurant, Lounge and Park to feel the Caspian shoreline vibe."
+  },
+  "homeInfo": {
+    "hours": "Hours",
+    "hoursValue": "Daily 10:00 – 02:00",
+    "address": "Address",
+    "addressValue": "Qurban Abbasov 1, Baku",
+    "map": "View on map"
+  },
+  "homeCTA": {
+    "eyebrow": "Reservation",
+    "title": "Book a table at Riviera Baku",
+    "desc": "Fill the short form or write via WhatsApp.",
+    "btnReserve": "Online reservation",
+    "btnWhatsApp": "Write on WhatsApp",
+    "quick": "Quick info",
+    "infoHours": "Hours: 10:00 – 02:00",
+    "infoAddr": "Address: Qurban Abbasov 1, Baku",
+    "infoPhone": "Phone: 012 491 4140 • WhatsApp: 050 544 4402",
+    "waText": "Riviera Baku — reservation request"
+  },
+  "testimonials": {
+    "eyebrow": "Reviews",
+    "title": "What guests say",
+    "desc": "Selected quotes. For more, check Instagram.",
+    "prev": "Prev",
+    "next": "Next",
+    "list": [
+      { "name": "Aysel R.", "text": "By the Caspian, refined interiors, attentive service and signature cuisine make every evening special." },
+      { "name": "Rauf M.", "text": "All three concepts — Restaurant, Lounge and Park — in one place. Perfect for gatherings and date nights." },
+      { "name": "Elnara K.", "text": "Loved the wine selection and live music at Riviera Lounge." }
+    ]
+  },
+  "seo": {
+    "home": { "title": "Riviera Baku Restaurant • Lounge • Park", "desc": "Riviera Baku blends Restaurant, Lounge and Park concepts into a fine dining experience on the Caspian shore." },
+    "menu": { "title": "Menu — Riviera Baku", "desc": "Author’s cuisine, curated wine list and selected tastes." },
+    "gallery": { "title": "Gallery — Riviera Baku", "desc": "Atmosphere from Riviera Restaurant, Lounge and Park." },
+    "reservation": { "title": "Reservation — Riviera Baku", "desc": "Choose a table and send your WhatsApp reservation request." },
+    "contact": { "title": "Contact — Riviera Baku", "desc": "Qurban Abbasov 1, Baku address, phone numbers and Instagram." }
+  }
+}

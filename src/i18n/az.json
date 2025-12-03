@@ -1,0 +1,174 @@
+{
+  "nav": {
+    "home": "Ana səhifə",
+    "menu": "Menyu",
+    "gallery": "Qalereya",
+    "reservation": "Rezervasiya",
+    "contact": "Əlaqə",
+    "open": "Menyunu aç",
+    "close": "Menyunu bağla"
+  },
+  "menu": {
+    "eyebrow": "Menyu",
+    "title": "Tam menyu",
+    "description": "Qiymətlər AZN-dir. Detallar və allergenlər üçün ofisiantla yoxlayın.",
+    "searchPlaceholder": "Məs: plov, kabab, desert...",
+    "searchAria": "Menyu axtar",
+    "all": "Hamısı",
+    "itemWord": "yemək",
+    "note": "* Hesabınıza 10% xidmət haqqı əlavə oluna bilər. Zəhmət olmasa, qida allergiyanız barədə ofisianta məlumat verin.",
+    "cats": {
+      "soyuq-qelyanaltilar": "Soyuq qəlyanaltılar",
+      "sorbalar": "Şorbalar",
+      "isti-qelyanaltilar": "İsti qəlyanaltılar",
+      "isti-yemekler": "İsti yeməklər",
+      "tava": "Tava yeməkləri",
+      "xemir": "Xəmir yeməkləri",
+      "plov": "Plovlar",
+      "kabab": "Kabablar",
+      "desert": "Desertlər"
+    },
+    "items": {
+      "terevaz-buketi": { "name": "Tərəvəz buketi" },
+      "gunun-sorbasi": { "name": "Günün şorbası" },
+      "etli-qutab": { "name": "Ətli qutab" },
+      "kartof-dolmasi-pomidor-azmasi-ile": { "name": "Kartof dolması pomidor azması ilə" }
+    }
+  },
+  "hero": {
+    "eyebrow": "Riviera Baku • Restaurant • Lounge",
+    "title": "Hər Loxmada Zəriflik,\nHər Axşamda Riviera Lüksü.",
+    "desc": "Xəzər sahilində incə zövqlə hazırlanmış fine dining təcrübəsi. Müəllif mətbəxi, zərif interyer və diqqətli xidmət hər axşamı xatirəyə çevirir.",
+    "ctaReserve": "Rezervasiya et",
+    "ctaMenu": "Videomuzu izləyin",
+    "addrLine1": "Qurban Abbasov 1, Bakı, Azərbaycan 1003",
+    "addrLine2": "Xəzər sahilində, Bulvar istiqaməti",
+    "hoursPrefix": "Hər gün:",
+    "hoursValue": "10:00 – 02:00",
+    "rightEyebrow": "Konseptlər",
+    "rightTitle": "Riviera Restaurant",
+    "rightDesc": "Müəllif mətbəxi, incə şərab menyusu və dəniz mənzərəsi.",
+    "rightToday": "Bu gün üçün yerlər",
+    "rightLimited": "Erkən sifariş edin",
+    "rightNote": "Qrup və tədbirlər üçün xüsusi menyu və servis mümkündür."
+  },
+  "footer": {
+    "tagline": "Riviera Baku – Restaurant • Lounge • Park – Xəzər sahilində incə zövqlə hazırlanmış fine dining və istirahət məkanıdır.",
+    "address": "Qurban Abbasov 1, Bakı, Azərbaycan 1003",
+    "hours": "Hər gün 10:00 – 02:00",
+    "call": "Zəng",
+    "navigation": "NAVİGASİYA",
+    "contactAndReservation": "ƏLAQƏ & REZERVASİYA",
+    "copyright": "© {year} Riviera Baku. Bütün hüquqlar qorunur.",
+    "createdBy": "Hazırlayan"
+  },
+  "res": {
+    "eyebrow": "Rezervasiya",
+    "title": "Masanızı onlayn seçin",
+    "desc": "Qısa formanı doldurun, komandamız sizinlə əlaqə saxlayıb rezervasiyanı təsdiq etsin. Təcili rezervasiya üçün birbaşa zəng və ya WhatsApp yaza bilərsiniz.",
+    "call": "Zəng",
+    "whNote": "Formanı göndərdikdən sonra WhatsApp mesajına yönləndiriləcəksiniz.",
+    "labelName": "Ad və soyad",
+    "labelPhone": "Telefon",
+    "labelDate": "Tarix",
+    "labelTime": "Saat",
+    "labelPeople": "Şəxs sayı",
+    "labelNote": "Qeyd (ixtiyari)",
+    "submit": "WhatsApp ilə rezervasiya sorğusu göndər",
+    "waPrefix": "Riviera Baku rezervasiya sorğusu:",
+    "waName": "Ad",
+    "waPhone": "Telefon",
+    "waDate": "Tarix",
+    "waTime": "Saat",
+    "waPeople": "Şəxslərin sayı",
+    "waNote": "Qeyd"
+  },
+  "gallery": {
+    "eyebrow": "Görünüş",
+    "title": "Məkan atmosferi",
+    "desc": "Riviera Restaurant, Lounge və Park konseptlərindən kadrlar.",
+    "img1Title": "Riviera Restaurant",
+    "img1Sub": "Fine dining və müəllif ləzzətləri",
+    "img2Title": "Riviera Lounge",
+    "img2Sub": "Canlı musiqi və imza kokteyllər",
+    "img3Title": "Riviera Park",
+    "img3Sub": "Açıq hava, Xəzər sahili atmosferi"
+  },
+  "about": {
+    "eyebrow": "Haqqımızda",
+    "title": "Riviera hekayəsi",
+    "p1": "Riviera Baku Xəzər sahilində yerləşən, şəhərin ritmini dənizin sakitliyi ilə birləşdirən məkandır. Riviera Restaurant, Lounge və Park konseptləri ilə həm romantik axşamlar, həm də dostlarla görüşlər üçün ideal seçimdir.",
+    "p2": "Müəllif mətbəxi, seçilmiş şərab menyusu və canlı musiqi ilə lounge atmosferi hər zövqə uyğun təcrübə yaradır. Açıq havada istirahət üçün nəzərdə tutulmuş park zonası isə dəniz səsini seyr edənlər üçündür.",
+    "featKitchen": "Müəllif mətbəxi",
+    "featKitchenText": "Seçilmiş məhsullar, incə təqdimat və dəniz mənzərəsinə uyğun menyu.",
+    "featPhilosophy": "Xidmət fəlsəfəsi",
+    "featPhilosophyText": "Hər qonağa fərdi yanaşma, diqqətli servis və rahatlıq.",
+    "featAtmos": "Atmosfer",
+    "featAtmosText": "Restaurant, Lounge və Park zonalarında vahid Riviera ruhu.",
+    "cardEyebrow": "Riviera konsepti",
+    "cardTitle": "Restaurant • Lounge • Park",
+    "cardText": "Riviera Baku – Restaurant, Lounge və Park konseptlərini birləşdirən məkandır. Şəxsi tədbirlər və qrup menyuları üçün bizimlə əlaqə saxlayın.",
+    "hoursLabel": "İş saatları",
+    "hoursValue": "Hər gün 10:00 – 02:00",
+    "addrLabel": "Ünvan",
+    "addrValue": "Qurban Abbasov 1, Bakı — Xəzər sahili",
+    "contactLabel": "Əlaqə"
+  },
+  "contact": {
+    "eyebrow": "Əlaqə",
+    "title": "Bizə necə çata bilərsiniz?",
+    "desc": "Telefon, WhatsApp və ya Instagram-la əlaqə saxlayın. Yönləndirmə üçün aşağıdakı xəritədən istifadə edin.",
+    "addr": "Qurban Abbasov 1, Bakı, Azərbaycan 1003 — Xəzər sahili, Bulvar istiqaməti",
+    "phone": "Telefon",
+    "hoursLabel": "İş saatları",
+    "hoursValue": "Hər gün 10:00 – 02:00"
+  },
+  "homeMenu": {
+    "eyebrow": "Menyu",
+    "title": "Müəllif mətbəxi və seçilmiş ləzzətlər",
+    "desc": "Aşağıda menyudan seçilmiş bir neçə nümunə təqdim olunub. Tam menyu üçün Menyu səhifəsinə keçid edə bilərsiniz."
+  },
+  "homeAtmos": {
+    "eyebrow": "Atmosfer",
+    "title": "Riviera ruhu",
+    "desc": "Restaurant, Lounge və Park zonalarından qısa video parçaları ilə Xəzər sahilinin hissini yaşayın."
+  },
+  "homeInfo": {
+    "hours": "İş saatları",
+    "hoursValue": "Hər gün 10:00 – 02:00",
+    "address": "Ünvan",
+    "addressValue": "Qurban Abbasov 1, Bakı",
+    "map": "Xəritədə bax"
+  },
+  "homeCTA": {
+    "eyebrow": "Rezervasiya",
+    "title": "Riviera Baku-da masa ayırın",
+    "desc": "Qısa formanı doldurun və ya birbaşa WhatsApp-la yazın.",
+    "btnReserve": "Onlayn rezervasiya",
+    "btnWhatsApp": "WhatsApp ilə yazın",
+    "quick": "Qısa məlumat",
+    "infoHours": "İş saatları: 10:00 – 02:00",
+    "infoAddr": "Ünvan: Qurban Abbasov 1, Bakı",
+    "infoPhone": "Telefon: 012 491 4140 • WhatsApp: 050 544 4402",
+    "waText": "Riviera Baku — rezervasiya sorğusu"
+  },
+  "testimonials": {
+    "eyebrow": "Rəylər",
+    "title": "Qonaqlarımız nə deyir",
+    "desc": "Seçilmiş qısa fikirlər. Daha çox rəy üçün Instagram səhifəmizə baxın.",
+    "prev": "Geri",
+    "next": "İrəli",
+    "list": [
+      { "name": "Aysel R.", "text": "Dəniz kənarında zərif interyer, diqqətli servis və müəllif mətbəxi hər axşamı xüsusi edir." },
+      { "name": "Rauf M.", "text": "Restaurant, Lounge və Park konseptlərinin hamısı bir yerdə – dostlarla görüş və romantik axşam üçün ideal məkan." },
+      { "name": "Elnara K.", "text": "Şərab seçimi və canlı musiqi ilə Riviera Lounge təcrübəsi çox bəyəndik." }
+    ]
+  },
+  "seo": {
+    "home": { "title": "Riviera Baku Restaurant • Lounge • Park", "desc": "Riviera Baku – Restaurant, Lounge və Park konseptlərini birləşdirən, Xəzər sahilində fine dining təcrübəsi." },
+    "menu": { "title": "Menyu — Riviera Baku", "desc": "Müəllif mətbəxi, şərab menyusu və seçilmiş ləzzətlər." },
+    "gallery": { "title": "Qalereya — Riviera Baku", "desc": "Riviera Restaurant, Lounge və Park atmosferindən görüntülər." },
+    "reservation": { "title": "Rezervasiya — Riviera Baku", "desc": "Masa seçin və WhatsApp ilə rezervasiya sorğusu göndərin." },
+    "contact": { "title": "Əlaqə — Riviera Baku", "desc": "Qurban Abbasov 1, Bakı ünvanı, telefon nömrələri və Instagram." }
+  }
+}
