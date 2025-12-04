@@ -129,7 +129,7 @@
     }
   },
   "hero": {
-    "eyebrow": "Riviera Baku • Restaurant • Lounge",
+    "eyebrow": "Riviera Baku",
     "title": "Elegance in every bite,\nRiviera luxury every night.",
     "desc": "Fine dining crafted on the Caspian shoreline. Signature cuisine, refined interiors, and attentive service turn every evening into a memory.",
     "ctaReserve": "Reserve a table",
@@ -146,7 +146,7 @@
     "rightNote": "Custom menus and service for groups and events."
   },
   "footer": {
-    "tagline": "Riviera Baku – Restaurant • Lounge • Park – fine dining and leisure crafted by the Caspian Sea.",
+    "tagline": "Riviera Baku – Restaurant, Lounge – fine dining and leisure crafted by the Caspian Sea.",
     "address": "Qurban Abbasov 1, Baku, Azerbaijan 1003",
     "hours": "Daily 10:00 – 02:00",
     "call": "Call",
@@ -199,7 +199,7 @@
     "featAtmos": "Atmosphere",
     "featAtmosText": "A unified Riviera mood across Restaurant, Lounge and Park.",
     "cardEyebrow": "Riviera concept",
-    "cardTitle": "Restaurant • Lounge • Park",
+    "cardTitle": "Restaurant, Lounge",
     "cardText": "Riviera Baku unites Restaurant, Lounge and Park concepts. Contact us for private events and tailored group menus.",
     "hoursLabel": "Hours",
     "hoursValue": "Daily 10:00 – 02:00",
@@ -258,7 +258,7 @@
     ]
   },
   "seo": {
-    "home": { "title": "Riviera Baku Restaurant • Lounge • Park", "desc": "Riviera Baku blends Restaurant, Lounge and Park concepts into a fine dining experience on the Caspian shore." },
+    "home": { "title": "Riviera Baku Restaurant, Lounge", "desc": "Riviera Baku blends Restaurant, Lounge and Park concepts into a fine dining experience on the Caspian shore." },
     "menu": { "title": "Menu — Riviera Baku", "desc": "Author’s cuisine, curated wine list and selected tastes." },
     "gallery": { "title": "Gallery — Riviera Baku", "desc": "Atmosphere from Riviera Restaurant, Lounge and Park." },
     "reservation": { "title": "Reservation — Riviera Baku", "desc": "Choose a table and send your WhatsApp reservation request." },

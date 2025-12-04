@@ -1,8 +1,8 @@
 export const brand = {
   name: 'Riviera Baku',
   shortName: 'Riviera',
-  descriptor: 'Restaurant • Lounge • Park',
-  tagline: 'Riviera Baku – Restaurant • Lounge • Park – Xəzər sahilində incə zövqlə hazırlanmış fine dining və istirahət məkanıdır.',
+  descriptor: 'Restaurant, Lounge',
+  tagline: 'Riviera Baku – Restaurant, Lounge – Xəzər sahilində incə zövqlə hazırlanmış fine dining və istirahət məkanıdır.',
   fullPhrase: 'Riviera Baku – Restaurant, Lounge və Park konseptlərini birləşdirən məkandır.',
   address: 'Qurban Abbasov 1, Bakı, Azərbaycan 1003',
   mapQuery: 'Riviera Baku',

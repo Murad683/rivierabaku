@@ -123,7 +123,7 @@
     }
   },
   "hero": {
-    "eyebrow": "Riviera Baku • Restaurant • Lounge",
+    "eyebrow": "Riviera Baku",
     "title": "Изысканность в каждом вкусе,\nроскошь Riviera каждый вечер.",
     "desc": "Fine dining на берегу Каспия. Авторская кухня, утончённый интерьер и внимательный сервис превращают каждый вечер в воспоминание.",
     "ctaReserve": "Забронировать стол",
@@ -140,7 +140,7 @@
     "rightNote": "Для групп и событий доступно индивидуальное меню и сервис."
   },
   "footer": {
-    "tagline": "Riviera Baku – Restaurant • Lounge • Park – fine dining и отдых на берегу Каспия.",
+    "tagline": "Riviera Baku – Restaurant, Lounge – fine dining и отдых на берегу Каспия.",
     "address": "ул. Курбан Аббасов, 1, Баку, Азербайджан 1003",
     "hours": "Ежедневно 10:00 – 02:00",
     "call": "Звонок",
@@ -193,7 +193,7 @@
     "featAtmos": "Атмосфера",
     "featAtmosText": "Единое настроение Riviera в Restaurant, Lounge и Park.",
     "cardEyebrow": "Концепция Riviera",
-    "cardTitle": "Restaurant • Lounge • Park",
+    "cardTitle": "Restaurant, Lounge",
     "cardText": "Riviera Baku объединяет три концепции. Пишите для частных событий и групповых меню.",
     "hoursLabel": "Часы работы",
     "hoursValue": "Ежедневно 10:00 – 02:00",
@@ -252,7 +252,7 @@
     ]
   },
   "seo": {
-    "home": { "title": "Riviera Baku Restaurant • Lounge • Park", "desc": "Riviera Baku объединяет Restaurant, Lounge и Park в fine dining опыте на берегу Каспия." },
+    "home": { "title": "Riviera Baku Restaurant, Lounge", "desc": "Riviera Baku объединяет Restaurant, Lounge и Park в fine dining опыте на берегу Каспия." },
     "menu": { "title": "Меню — Riviera Baku", "desc": "Авторская кухня, винная карта и выбранные вкусы." },
     "gallery": { "title": "Галерея — Riviera Baku", "desc": "Атмосфера Riviera Restaurant, Lounge и Park." },
     "reservation": { "title": "Бронь — Riviera Baku", "desc": "Выберите стол и отправьте запрос в WhatsApp." },

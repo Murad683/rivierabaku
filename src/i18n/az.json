@@ -36,11 +36,11 @@
     }
   },
   "hero": {
-    "eyebrow": "Riviera Baku • Restaurant • Lounge",
+    "eyebrow": "Riviera Baku",
     "title": "Hər Loxmada Zəriflik,\nHər Axşamda Riviera Lüksü.",
     "desc": "Xəzər sahilində incə zövqlə hazırlanmış fine dining təcrübəsi. Müəllif mətbəxi, zərif interyer və diqqətli xidmət hər axşamı xatirəyə çevirir.",
     "ctaReserve": "Rezervasiya et",
-    "ctaMenu": "Videomuzu izləyin",
+    "ctaMenu": "Şəkillərə bax",
     "addrLine1": "Qurban Abbasov 1, Bakı, Azərbaycan 1003",
     "addrLine2": "Xəzər sahilində, Bulvar istiqaməti",
     "hoursPrefix": "Hər gün:",
@@ -53,7 +53,7 @@
     "rightNote": "Qrup və tədbirlər üçün xüsusi menyu və servis mümkündür."
   },
   "footer": {
-    "tagline": "Riviera Baku – Restaurant • Lounge • Park – Xəzər sahilində incə zövqlə hazırlanmış fine dining və istirahət məkanıdır.",
+    "tagline": "Riviera Baku – Restaurant, Lounge – Xəzər sahilində incə zövqlə hazırlanmış fine dining və istirahət məkanıdır.",
     "address": "Qurban Abbasov 1, Bakı, Azərbaycan 1003",
     "hours": "Hər gün 10:00 – 02:00",
     "call": "Zəng",
@@ -106,7 +106,7 @@
     "featAtmos": "Atmosfer",
     "featAtmosText": "Restaurant, Lounge və Park zonalarında vahid Riviera ruhu.",
     "cardEyebrow": "Riviera konsepti",
-    "cardTitle": "Restaurant • Lounge • Park",
+    "cardTitle": "Restaurant, Lounge",
     "cardText": "Riviera Baku – Restaurant, Lounge və Park konseptlərini birləşdirən məkandır. Şəxsi tədbirlər və qrup menyuları üçün bizimlə əlaqə saxlayın.",
     "hoursLabel": "İş saatları",
     "hoursValue": "Hər gün 10:00 – 02:00",
@@ -165,7 +165,7 @@
     ]
   },
   "seo": {
-    "home": { "title": "Riviera Baku Restaurant • Lounge • Park", "desc": "Riviera Baku – Restaurant, Lounge və Park konseptlərini birləşdirən, Xəzər sahilində fine dining təcrübəsi." },
+    "home": { "title": "Riviera Baku Restaurant, Lounge", "desc": "Riviera Baku – Restaurant, Lounge və Park konseptlərini birləşdirən, Xəzər sahilində fine dining təcrübəsi." },
     "menu": { "title": "Menyu — Riviera Baku", "desc": "Müəllif mətbəxi, şərab menyusu və seçilmiş ləzzətlər." },
     "gallery": { "title": "Qalereya — Riviera Baku", "desc": "Riviera Restaurant, Lounge və Park atmosferindən görüntülər." },
     "reservation": { "title": "Rezervasiya — Riviera Baku", "desc": "Masa seçin və WhatsApp ilə rezervasiya sorğusu göndərin." },
